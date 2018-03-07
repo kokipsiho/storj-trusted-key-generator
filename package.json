@@ -13,5 +13,8 @@
     "chalk": "^2.3.2",
     "crypto": "^1.0.1",
     "hdkey": "^0.8.0"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
