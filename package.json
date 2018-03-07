@@ -1,0 +1,16 @@
+{
+  "name": "storj-trusted-key-generator",
+  "version": "1.0.0",
+  "description": "Utility for generating trusted keys for storj bridge",
+  "main": "index.js",
+  "repository": "git@github.com:kokipsiho/storj-trusted-key-generator.git",
+  "author": {
+    "name": "Zoran Joka",
+    "email": "zoran.joka@symlink.rs"
+  },
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "hdkey": "^0.8.0"
+  }
+}
